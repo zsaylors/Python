@@ -1,6 +1,5 @@
 import random;
 
-
 # Enter a username
 print("Enter a username: ")
 name = input()
